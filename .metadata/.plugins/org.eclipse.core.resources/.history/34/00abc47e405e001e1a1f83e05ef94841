@@ -1,0 +1,5 @@
+package com.prado.examen.entity;
+
+public class Marca {
+
+}
